@@ -2,4 +2,4 @@
 
 ### Add further detail
 
-Additonal change to show in remote repo
+Change made to show pull request process
