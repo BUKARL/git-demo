@@ -8,4 +8,6 @@ Change made to show pull request process for stub data
 
 No secrets detected message displayed? 
 
+Addition of a password
+
 Password="Password1"
