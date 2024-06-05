@@ -11,3 +11,5 @@ No secrets detected message displayed?
 Addition of a password
 
 Password="Password1"
+
+Test - GITHUB browser changes
