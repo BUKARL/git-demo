@@ -12,4 +12,4 @@ Addition of a password
 
 Password="Password1"
 
-Test - GITHUB browser changes
+GIThub add GGshield path to pre-hook file
